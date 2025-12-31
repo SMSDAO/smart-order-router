@@ -53,7 +53,7 @@
     "bunyan": "^1.8.15",
     "bunyan-blackhole": "^1.1.1",
     "ethers": "^5.7.2",
-    "graphql": "^15.5.0",
+    "graphql": "^15.10.1",
     "graphql-request": "^3.4.0",
     "lodash": "^4.17.21",
     "mnemonist": "^0.40.3",
