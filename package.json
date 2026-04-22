@@ -55,7 +55,7 @@
     "ethers": "^5.7.2",
     "graphql": "^15.5.0",
     "graphql-request": "^3.4.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "mnemonist": "^0.40.3",
     "node-cache": "^5.1.2",
     "stats-lite": "^2.2.0"
